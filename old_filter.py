@@ -1,7 +1,7 @@
 from PIL import Image
 import numpy as np
 
-img = Image.open("galochka.jpg")
+img = Image.open("test_img.jpg")
 arr = np.array(img)
 a = len(arr)
 a1 = len(arr[1])

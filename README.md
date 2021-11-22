@@ -18,8 +18,16 @@
 
 ---
 
-Исполнение доктестов для median_gray():
+Исполнение тестов для median_gray():
 
-![Исполнение доктестов для median_gray()](https://github.com/angst-storm/IDE/doctest-median_gray.png) 
+![Исполнение тестов для median_gray()](https://github.com/angst-storm/IDE/doctest-median_gray.png) 
 
 Все тесты пройдены. Написание тестов на gray_pixelation() слишком тяжело, так как возвращаемое значение - изображение.
+
+---
+
+Результат инспектирования:
+
+![Результат инспектирования](https://github.com/angst-storm/IDE/inspect.png) 
+
+Замечаний к коду нет, помимо дублирования кода в filter.py и filter_with_filename.py (обусловлено прошлыми заданиями).

@@ -17,4 +17,4 @@ def gray_pixelation(image, size, gradations):
 
 
 if __name__ == "__main__":
-    gray_pixelation(Image.open("galochka.jpg"), 10, 5).save("result-2.jpg")
+    gray_pixelation(Image.open("test_img.jpg"), 10, 5).save("result-2.jpg")
