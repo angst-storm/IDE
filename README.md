@@ -18,6 +18,22 @@
 
 ---
 
+Изображения:
+
+Исходное:
+
+![Исходное изображение](https://github.com/angst-storm/IDE/test_img.png) 
+
+Результат работы old_filter.py:
+
+![Результат работы old_filter.py](https://github.com/angst-storm/IDE/old_result.png) 
+
+Результат работы filter.py:
+
+![Результат работы old_filter.py](https://github.com/angst-storm/IDE/result.png)
+
+---
+
 Исполнение тестов для median_gray():
 
 ![Исполнение тестов для median_gray()](https://github.com/angst-storm/IDE/doctest-median_gray.png) 
@@ -31,3 +47,27 @@
 ![Результат инспектирования](https://github.com/angst-storm/IDE/inspect.png) 
 
 Замечаний к коду нет, помимо дублирования кода в filter.py и filter_with_filename.py (обусловлено прошлыми заданиями).
+
+---
+
+Работа с отладчиком.
+
+Тип изображения (JPEG, выделено):
+
+![Тип изображения](https://github.com/angst-storm/IDE/image-format.png) 
+
+Высота изображения (933, выделено):
+
+![Высота изображения](https://github.com/angst-storm/IDE/image-height.png) 
+
+Ширина изображения (934, выделено):
+
+![Ширина изображения](https://github.com/angst-storm/IDE/image-width.png) 
+
+Размер блока (10):
+
+![Размер блока](https://github.com/angst-storm/IDE/block-size.png) 
+
+Число градаций серого (5):
+
+![Число градаций серого](https://github.com/angst-storm/IDE/gradations-count.png) 
