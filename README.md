@@ -22,15 +22,15 @@
 
 Исходное:
 
-![Исходное изображение](https://github.com/angst-storm/IDE/blob/master/test_img.png) 
+![Исходное изображение](https://github.com/angst-storm/IDE/blob/master/test_img.jpg) 
 
 Результат работы old_filter.py:
 
-![Результат работы old_filter.py](https://github.com/angst-storm/IDE/blob/master/old_result.png) 
+![Результат работы old_filter.py](https://github.com/angst-storm/IDE/blob/master/old_result.jpg) 
 
 Результат работы filter.py:
 
-![Результат работы old_filter.py](https://github.com/angst-storm/IDE/blob/master/result.png)
+![Результат работы old_filter.py](https://github.com/angst-storm/IDE/blob/master/result.jpg)
 
 ---
 
